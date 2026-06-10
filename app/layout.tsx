@@ -13,6 +13,11 @@ export const metadata: Metadata = {
   title: 'Yassine Fathallah - Ingénieur QA Automatisation',
   description: 'Portfolio de Yassine Fathallah, Ingénieur QA Automatisation avec 11+ ans d\'expérience. Spécialisé en frameworks de test, automatisation E2E et fiabilisation des livraisons.',
   generator: 'v0.app',
+  icons: {
+    icon: '/yassine.jpg',
+    shortcut: '/yassine.jpg',
+    apple: '/yassine.jpg',
+  },
 }
 
 export default function RootLayout({
